@@ -1,1 +1,1 @@
-web: dmcs FirstConsoleApplication.exe
+web: FirstConsoleApplication.exe
