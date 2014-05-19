@@ -9,7 +9,7 @@ namespace ConsoleApplication1
     {
         public static void Main()
         {
-            Console.WriteLine("This is my first program! Yay!");
+            System.Console.WriteLine("This is my first program! Yay!");
         }
     }
 }
