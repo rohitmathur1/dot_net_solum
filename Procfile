@@ -1,1 +1,1 @@
-web: mono Program.cs
+web: dmcs Program.cs
