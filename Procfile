@@ -1,1 +1,2 @@
-web: Program.cs
+web: gmcs Program.cs
+web: mono Program.exe
