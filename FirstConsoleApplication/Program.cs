@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace ConsoleApplication1
+namespace FirstConsoleApplication
 {
     class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-            System.Console.WriteLine("This is my first program! Yay!");
+            Console.WriteLine("This is my first program! Yay!");
         }
     }
 }
