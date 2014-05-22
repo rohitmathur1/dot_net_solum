@@ -1,1 +1,1 @@
-web: FirstConsoleApplication.exe
+worker: mono FirstConsoleApplication.exe
